@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="paises">
+    <item>Argentina</item>
+    <item>Uruguay</item>
+    <item>Brasil</item>
+  </string-array>
+
+  <string-array name="ciudadesarg">
+    <item>Concepcion del Uruguay</item>
+    <item>Colon</item>
+  </string-array>
+
+  <string-array name="ciudadesuru">
+    <item>Paysandu</item>
+    <item>Fray Bentos</item>
+  </string-array>
+
+  <string-array name="ciudadesbra">
+    <item>Uruguayana</item>
+    <item>Rio Grande do Sul</item>
+  </string-array>
+</resources>
